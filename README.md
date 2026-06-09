@@ -1,1 +1,1 @@
-# aws-HighAvailability-VPC-with-ASG-ALB-RDS
+# AWS-HighAvailability-VPC-with-ASG-ALB-RDS
